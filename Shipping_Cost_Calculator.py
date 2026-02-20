@@ -12,5 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
  # Here is a new update by H-Smith-Code
 
- # Here is another update by H-Smith-Code
-
